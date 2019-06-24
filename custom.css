@@ -495,7 +495,7 @@ ts-mention {
     margin: 1px 5px !important;
     box-shadow: none !important; }
     .client_main_container #client_body .c-message:hover {
-      background: #FFF !important; }
+      background: var(background-elevated) !important; }
   .client_main_container #client_body .c-message,
   .client_main_container #client_body .c-message__content,
   .client_main_container #client_body .c-message__body,
