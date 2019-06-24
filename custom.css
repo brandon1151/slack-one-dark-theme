@@ -353,7 +353,7 @@ ts-mention {
     .client_channels_list_container #team_menu_overlay .overlay_mock_text {
       background: var(--background-hover); }
   .client_channels_list_container #team_menu {
-    background-color: var(--background-elevated) !important;
+    background-color: #FFF !important;
     border-color: transparent !important; }
     .client_channels_list_container #team_menu:hover, .client_channels_list_container #team_menu:active {
       background-color: var(--background-hover); }
