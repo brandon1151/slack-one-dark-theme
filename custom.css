@@ -1,11 +1,11 @@
 @import url("https://fonts.googleapis.com/css?family=Bad+Script|Rajdhani");
 :root {
   /* Modify these to change your theme colors: */
-  --primary: #E5C17C;
+  --primary: #3e87e0;
   --accent: #568AF2;
   --text: #ABB2BF;
   --background: #282C34;
-  --background-elevated: #000;
+  --background-elevated: #3B4048;
   /* These should be less important: */
   --background-hover: #525964;
   --background-light: #AAA;
