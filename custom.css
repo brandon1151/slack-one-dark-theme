@@ -353,7 +353,7 @@ ts-mention {
     .client_channels_list_container #team_menu_overlay .overlay_mock_text {
       background: var(--background-hover); }
   .client_channels_list_container #team_menu {
-    background-color: #FFF !important;
+    background-color: var(--background-elevated) !important;
     border-color: transparent !important; }
     .client_channels_list_container #team_menu:hover, .client_channels_list_container #team_menu:active {
       background-color: var(--background-hover); }
@@ -428,7 +428,7 @@ ts-mention {
   .client_main_container .messages_header .channel_title .channel_name {
     color: var(--text-bright) !important; }
   .client_main_container .messages_header .channel_header_info {
-    background: #FFF; }
+    background: var(--background-elevated); }
     .client_main_container .messages_header .channel_header_info button {
       color: var(--primary); }
   .client_main_container .messages_header .channel_header_info_item::before {
