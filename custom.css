@@ -1769,5 +1769,8 @@ feature_archive_deeplink feature_texty winssb light_theme {
 .c-message_kit__file__meta__text{
   color: #b2b2b2;
 }
+.c-files_container{
+  color: #b2b2b2;
+}
 
 /*# sourceMappingURL=custom.css.map */
