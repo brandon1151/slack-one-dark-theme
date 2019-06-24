@@ -1767,11 +1767,7 @@ feature_archive_deeplink feature_texty winssb light_theme {
   font-family: var(--font-family) !important;
   margin-left: 20px !important; }
 
-.c-message_kit__file__meta__text{
-  color: #b2b2b2;
+.channel_header{
+  background-color: #FFF;
 }
-.c-files_container{
-  color: #b2b2b2;
-}
-
 /*# sourceMappingURL=custom.css.map */
