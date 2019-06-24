@@ -421,7 +421,7 @@ ts-mention {
       border-radius: 15px 15px 0 0; }
 
 .client_main_container .channel_header {
-  background: var(--background-elevated);
+  background: #FFF;
   box-shadow: none; }
 .client_main_container .messages_header {
   color: var(--text); }
