@@ -409,6 +409,7 @@ ts-mention {
       background: var(--background);
       color: var(--text); }
     .client_channels_list_container #col_channels .p-channel_sidebar__banner--top {
+      height:20px;
       background-color: var(--background);
       border: 1px solid var(--background-bright);
       border-top: none;
