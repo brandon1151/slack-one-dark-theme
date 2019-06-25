@@ -211,6 +211,7 @@ ts-mention {
   background: var(--primary) !important; }
 
 .p-message_pane__unread_banner__banner {
+  margin-top:-20px;
   background: var(--accent) !important;
   color: var(--text-bright) !important; }
 
