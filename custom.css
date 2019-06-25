@@ -487,8 +487,10 @@ ts-mention {
       background: var(--background); }
   .client_main_container #client_body .c-message_list__day_divider__label__pill {
     background-color: var(--background-elevated);
-    border: 1px solid var(--border-dim);
-    color: var(--text); }
+    border: 1px solid var(--primary);
+    color: var(--text);
+    margin-top:10px;
+  }
   .client_main_container #client_body .c-timestamp__label {
     color: var(--text) !important; }
   .client_main_container #client_body .c-message {
