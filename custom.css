@@ -210,10 +210,6 @@ ts-mention {
   color: var(--text-accent) !important;
   background: var(--primary) !important; }
 
-.p-message_pane__top_banners{
-  margin-top -20px;
-}
-
 .p-message_pane__unread_banner__banner {
   background: var(--accent) !important;
   color: var(--text-bright) !important; }
