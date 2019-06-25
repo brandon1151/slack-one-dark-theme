@@ -429,7 +429,7 @@ ts-mention {
   .client_main_container .messages_header .channel_title .channel_name {
     color: var(--text-bright) !important; }
   .client_main_container .messages_header .channel_header_info {
-    background: var(--background-elevated); }
+    background: #000; }
     .client_main_container .messages_header .channel_header_info button {
       color: var(--primary); }
   .client_main_container .messages_header .channel_header_info_item::before {
@@ -437,7 +437,7 @@ ts-mention {
   .client_main_container .messages_header .channel_title_info {
     color: var(--text-special); }
   .client_main_container .messages_header #channel_topic_text::before {
-    background: var(--background-elevated) !important;
+    background: #000 !important;
     border: none !important; }
 .client_main_container .channel_header_icon {
   color: var(--text-special) !important; }
