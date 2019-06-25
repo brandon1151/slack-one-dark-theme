@@ -5,7 +5,7 @@
   --accent: #568AF2;
   --text: #ABB2BF;
   --background: #282C34;
-  --background-elevated: #000;
+  --background-elevated: #3B4048;
   /*#3B4048/*
   /* These should be less important: */
   --background-hover: #525964;
@@ -422,6 +422,7 @@ ts-mention {
 
 .client_main_container .channel_header {
   background: #000;
+  min-height:200px;
   box-shadow: none; }
 .client_main_container .messages_header {
   color: var(--text); }
