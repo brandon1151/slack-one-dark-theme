@@ -422,7 +422,7 @@ ts-mention {
 
 .client_main_container .channel_header {
   background: #000;
-  min-height:200px;
+  min-height:75px;
   box-shadow: none; }
 .client_main_container .messages_header {
   color: var(--text); }
