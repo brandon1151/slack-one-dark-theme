@@ -1773,4 +1773,8 @@ feature_archive_deeplink feature_texty winssb light_theme {
 .channel_header{
   background-color: #FFF;
 }
+
+.c-files_container {
+  color: var(--text);
+}
 /*# sourceMappingURL=custom.css.map */
